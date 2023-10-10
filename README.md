@@ -2,6 +2,6 @@
 
 A simple fun app to see how border radius are calculated with visual.
 
-<video controls="controls" muted="muted" playsinline="playsinline" src="https://raw.githubusercontent.com/mahmudz/flutter-radius-calculator/main/preview.mp4"></video>
+![Border Radius Calculator Preview](preview.png)
 
     Discalimer: Bad coding ahead.
